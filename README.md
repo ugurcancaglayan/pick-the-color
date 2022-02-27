@@ -1,4 +1,4 @@
-# [If You Want To Play This Game](pick-the-color.vercel.app)
+# [If You Want To Play This Game](https://pick-the-color.vercel.app/)
 
 # Getting Started with Create React App
 
